@@ -11,3 +11,5 @@ export OPENAI_API_KEY='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'
 streamlit run main6.py --server.enableCORS false --server.enableXsrfProtection false
 # Merke dir: Auf dem Tisch steht ein Teller.
 # Was steht auf dem Tisch?
+
+# pip freeze > ./requirements.txt
